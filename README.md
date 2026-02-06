@@ -32,19 +32,23 @@ A simple **To-Do List** application built with React that allows users to **add,
 git clone https://github.com/yourusername/todo-app.git
 ```
 2. Navigating to the Project folder
-
+```bash
 cd todo-app
-
+```
 3. Install dependencies
 ```bash
 npm install
+```
 # or
+```bash
 yarn install
 ```
 ### Running the app
 ```bash
 npm start
+```
 # or
+```bash
 yarn start
 ```
 Open your browser and go to http://localhost:3000 a to see the application.
